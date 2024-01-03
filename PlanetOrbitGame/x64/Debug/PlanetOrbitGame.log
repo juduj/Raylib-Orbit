@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\VulkanTestingRepo\PlanetOrbitGame\PlanetOrbitGame\main.cpp(60,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\VulkanTestingRepo\PlanetOrbitGame\PlanetOrbitGame\main.cpp(60,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\VulkanTestingRepo\PlanetOrbitGame\PlanetOrbitGame\main.cpp(60,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PlanetOrbitGame.vcxproj -> D:\VulkanTestingRepo\PlanetOrbitGame\x64\Debug\PlanetOrbitGame.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
